@@ -1,0 +1,13 @@
+No. of. vehicles:   4 
+Platoon setup:      2  1  1  1 
+Simulation time [s]:200 
+Time step [s]:          0.01 
+Message freq. [Hz]: 5 
+PER model:          Table 
+PER model file:     5nodes_4veh_SARTRE_straight_All_speeds.txt 
+Age limit [s]:      0.2 
+Multi-hop:           None 
+Tx algorithm:        Transmit with first node. 
+Send messages/node/s: 4.86 4.86 4.86 4.86 
+Tot. send messages/s:   19.44 
+CDF probability [-]:      0.961 0.975 0.98 
